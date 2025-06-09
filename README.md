@@ -35,7 +35,7 @@ Welcome to the **Swiss Beauty Makeup Website**, a full-stack e-commerce applicat
 ## 📸 Screenshots
 
 <div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; justify-content: center;">
-  <img src="https://images.unsplash.com/photo-1600185365894-3851d2d1e414?auto=format&fit=crop&w=400&q=80" alt="Home Page" width="300" style="margin: 10px; border-radius: 10px;" />
+  <img src="https://images.pexels.com/photos/2536965/pexels-photo-2536965.jpeg?_gl=1*1jf5f3w*_ga*MTU5OTk2MTg5Ni4xNzQwNDEyMDE0*_ga_8JE65Q40S6*czE3NDk0ODgyNjUkbzEyJGcxJHQxNzQ5NDg4MzUwJGo0MCRsMCRoMA.." alt="Home Page" width="300" style="margin: 10px; border-radius: 10px;" />
   <img src="https://images.unsplash.com/photo-1624910420876-0fd72a1a37d7?auto=format&fit=crop&w=400&q=80" alt="Product Page" width="300" style="margin: 10px; border-radius: 10px;" />
   <img src="https://images.unsplash.com/photo-1616728432343-4a933f7c22a1?auto=format&fit=crop&w=400&q=80" alt="Cart Page" width="300" style="margin: 10px; border-radius: 10px;" />
 </div>
