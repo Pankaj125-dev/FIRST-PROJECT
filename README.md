@@ -1,2 +1,3 @@
 # FIRST-PROJECT
 M.E.R.N STACK BASED PROJECT 
+<p align="center">SWISS BEAUTY </p>
