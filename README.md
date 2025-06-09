@@ -2,6 +2,7 @@
 M.E.R.N STACK BASED PROJECT 
 <p align="center">SWISS BEAUTY </p>
 <img height="400px"  width="100%" src="https://www.mobelhomestore.com/cdn/shop/files/helbrp.jpg?v=1703153580"/>
+<br/>
 
 # 💄 Swiss Beauty - Makeup E-commerce Website
 
@@ -24,12 +25,6 @@ Welcome to the **Swiss Beauty Makeup Website**, a full-stack e-commerce applicat
 
 <br/>
 
-## 🔗 Live Preview
-
-👉 [Visit Live Site](https://your-deployed-site-link.com)
-
-<br/>
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: React, React Router, Redux Toolkit
@@ -43,5 +38,16 @@ Welcome to the **Swiss Beauty Makeup Website**, a full-stack e-commerce applicat
 
 <div style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; justify-content: center;">
   <img src="https://images.unsplash.com/photo-1600185365894-3851d2d1e414?auto=format&fit=crop&w=400&q=80" alt="Home Page" width="300" style="margin: 10px; border-radius: 10px;" />
-  <img src="https://images.unsplash.com/photo-1624910420876-0fd72a1a37d7?auto=format&fit=crop&w=400&q=80
+  <img src="https://images.unsplash.com/photo-1624910420876-0fd72a1a37d7?auto=format&fit=crop&w=400&q=80" alt="Product Page" width="300" style="margin: 10px; border-radius: 10px;" />
+  <img src="https://images.unsplash.com/photo-1616728432343-4a933f7c22a1?auto=format&fit=crop&w=400&q=80" alt="Cart Page" width="300" style="margin: 10px; border-radius: 10px;" />
+</div>
 
+<br/>
+
+## 📁 How to Run Locally
+
+```bash
+git clone https://github.com/your-username/swiss-beauty.git
+cd swiss-beauty
+npm install
+npm start
