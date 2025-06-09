@@ -1,8 +1,6 @@
 # FIRST-PROJECT
 M.E.R.N STACK BASED PROJECT 
-<p align="center">SWISS BEAUTY </p>
-<img height="400px"  width="100%" src="https://www.mobelhomestore.com/cdn/shop/files/helbrp.jpg?v=1703153580"/>
-<br/>
+
 
 # 💄 Swiss Beauty - Makeup E-commerce Website
 
@@ -11,7 +9,7 @@ Welcome to the **Swiss Beauty Makeup Website**, a full-stack e-commerce applicat
 <br/>
 
 <div style="text-align: center;">
-  <img src="https://images.unsplash.com/photo-1617814062433-0443898c6b35?auto=format&fit=crop&w=800&q=80" alt="Swiss Beauty Website Preview" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <img src="https://pimwp.s3-accelerate.amazonaws.com/2023/02/unnamed-1.png" alt="Swiss Beauty Website Preview" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </div>
 
 <br/>
