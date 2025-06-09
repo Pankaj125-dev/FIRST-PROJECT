@@ -9,7 +9,7 @@ Welcome to the **Swiss Beauty Makeup Website**, a full-stack e-commerce applicat
 <br/>
 
 <div style="text-align: center;">
-  <img src="https://pimwp.s3-accelerate.amazonaws.com/2023/02/unnamed-1.png" alt="Swiss Beauty Website Preview" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <img src="https://i.pinimg.com/736x/f8/45/45/f845450f907b2aa6aa05357a66664c60.jpg" alt="Swiss Beauty Website Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </div>
 
 <br/>
