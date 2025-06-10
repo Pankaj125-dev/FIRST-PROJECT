@@ -12,14 +12,9 @@ Welcome to the **Swiss Beauty Makeup Website**, a full-stack e-commerce applicat
 <br/>
 
 ## 💅 Swiss Beauty Website – Live Demo
-<div style="text-align: center;">
-  <a href="https://www.youtube.com/watch?v=your-video-id" target="_blank">
-    <img src="https://img.youtube.com/vi/your-video-id/hqdefault.jpg" 
-         alt="Watch Demo" 
-         width="600" 
-         style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-  </a>
-</div>
+
+
+<br/>
 
 
 ## 🚀 Features
