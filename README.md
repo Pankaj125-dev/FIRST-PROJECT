@@ -24,50 +24,23 @@ Welcome to the **Swiss Beauty Makeup Website**, a full-stack e-commerce applicat
 
 <br/>
 
-## 🛠️ Tech Stack
+# 🚀 Technologies Used
 
-<table>
-  <thead>
-    <tr>
-      <th>Technology</th>
-      <th>Usage</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>React.js</strong></td>
-      <td>Frontend UI development (component-based architecture)</td>
-    </tr>
-    <tr>
-      <td><strong>JavaScript (ES6+)</strong></td>
-      <td>Application logic, state management, event handling</td>
-    </tr>
-    <tr>
-      <td><strong>HTML5</strong></td>
-      <td>Markup for structuring the UI (via JSX)</td>
-    </tr>
-    <tr>
-      <td><strong>CSS3</strong></td>
-      <td>Styling the application (custom classes, responsive layout)</td>
-    </tr>
-    <tr>
-      <td><strong>JSX</strong></td>
-      <td>JavaScript + XML syntax used to write React components</td>
-    </tr>
-    <tr>
-      <td><strong>React Hooks (useState)</strong></td>
-      <td>State management for UI and cart logic</td>
-    </tr>
-    <tr>
-      <td><strong>Modular Components</strong></td>
-      <td>Encapsulation of sections like FaceBeauty, EyeBeauty, etc.</td>
-    </tr>
-    <tr>
-      <td><strong>Props System</strong></td>
-      <td>Data passing between parent and child components</td>
-    </tr>
-  </tbody>
-</table>
+Below are the major technologies and tools used in this project:
+
+| Logo                                                                       | Technology             | Usage Description                                     |
+| -------------------------------------------------------------------------- | ---------------------- | ----------------------------------------------------- |
+| ![React](https://img.icons8.com/color/24/000000/react-native.png)          | **React.js**           | UI development using component-based architecture     |
+| ![JS](https://img.icons8.com/color/24/000000/javascript--v1.png)           | **JavaScript (ES6+)**  | App logic and interactivity                           |
+| ![HTML](https://img.icons8.com/color/24/000000/html-5--v1.png)             | **HTML5**              | Base markup through JSX                               |
+| ![CSS](https://img.icons8.com/color/24/000000/css3.png)                    | **CSS3**               | Styling and layout of components                      |
+| ![JSX](https://img.icons8.com/fluency/24/code.png)                         | **JSX**                | React component templating syntax                     |
+| 🔧                                                                         | **React Hooks**        | `useState` used for state and cart management         |
+| 🧩                                                                         | **Modular Components** | Encapsulated product sections (Face, Eye, Lips, etc.) |
+| ![Props](https://img.icons8.com/ios-filled/24/data-in-both-directions.png) | **Props**              | Passing data and functions between components         |
+
+-----
+
 
 
 <br/>
@@ -82,6 +55,30 @@ Welcome to the **Swiss Beauty Makeup Website**, a full-stack e-commerce applicat
 
 <br/>
 
+
+
+
+---
+
+# 🛠️ System Requirements
+
+Before running the project, make sure your system meets the following requirements:
+
+| 🔧 Component     | ✅ Minimum Requirement                                        |
+|------------------|---------------------------------------------------------------|
+| **Operating System** | Windows 10+, macOS 10.15+, or any modern Linux distro     |
+| **Browser**          | Latest versions of Chrome, Firefox, or Edge               |
+| **Node.js**          | v14.x or v16.x (LTS recommended)                          |
+| **npm / yarn**       | npm ≥ 6.x or yarn ≥ 1.22                                  |
+| **RAM**              | Minimum: 4 GB (Recommended: 8 GB or more)                 |
+| **Screen Resolution**| 1280 × 720 or higher for optimal viewing                 |
+
+---
+
+> 💡 **Note:** It's always a good idea to use the latest stable versions of software to ensure compatibility and better performance.
+
+
+
 ## 📁 How to Run Locally
 
 ```bash
@@ -89,3 +86,7 @@ git clone https://github.com/your-username/swiss-beauty.git
 cd swiss-beauty
 npm install
 npm start
+
+<br/>
+
+
