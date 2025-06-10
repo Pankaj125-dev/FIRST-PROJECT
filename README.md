@@ -5,7 +5,7 @@ Welcome to the **Swiss Beauty Makeup Website**, a full-stack e-commerce applicat
 <br/>
 
 <div style="text-align: center;">
-  <img src="https://media.licdn.com/dms/image/v2/C4D16AQEGTFCgZFTG2w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1649935405211?e=2147483647&v=beta&t=kL2PCMEM_1nEA_3DeIx4eAKMeGXjovyaqrX6jJkz7jg" alt="Swiss Beauty Website Preview" height="150px" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); text-align:center; margin-left:100px" />
+<!--   <img src="https://media.licdn.com/dms/image/v2/C4D16AQEGTFCgZFTG2w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1649935405211?e=2147483647&v=beta&t=kL2PCMEM_1nEA_3DeIx4eAKMeGXjovyaqrX6jJkz7jg" alt="Swiss Beauty Website Preview" height="150px" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); text-align:center; margin-left:100px" /> -->
     <img src="https://cdn.pixabay.com/photo/2024/12/30/16/17/products-9300602_1280.jpg" alt="Swiss Beauty Website Preview"  height="500px" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); text-align:center; margin-left:100px" />
 </div>
 
